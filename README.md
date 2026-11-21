@@ -29,6 +29,7 @@ pip install transformers torch torchvision gradio pillow
 
 ## Run the Project
 Open the notebook in Google Colab or Jupyter Notebook and run the cells sequentially.
+https://image-captioning-sabari.streamlit.app
 
 ## Model Used
 Salesforce/blip-image-captioning-base
